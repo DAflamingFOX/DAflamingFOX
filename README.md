@@ -26,6 +26,9 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/Hopeful-Developers/Javacord-CommandHandler/issues/1) in [Hopeful-Developers/Javacord-CommandHandler](https://github.com/Hopeful-Developers/Javacord-CommandHandler)
+2. 💪 Opened PR [#1](https://github.com/Hopeful-Developers/Javacord-CommandHandler/pull/1) in [Hopeful-Developers/Javacord-CommandHandler](https://github.com/Hopeful-Developers/Javacord-CommandHandler)
+<!--END_SECTION:activity-->
 ![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dracula)
 [![Javacord-CommandHandler](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=Javacord-CommandHandler&theme=dracula)](https://www.github.com/DAflamingFOX/Javacord-CommandHandler)
 [![The-Blue-Alliance-api-wrapper](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=The-Blue-Alliance-Java-api-wrapper&theme=dracula)](https://www.github.com/DAflamingFOX/The-Blue-Alliance-Java-api-wrapper)
