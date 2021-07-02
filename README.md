@@ -26,8 +26,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/DAflamingFOX/gif-to-json/issues/2) in [DAflamingFOX/gif-to-json](https://github.com/DAflamingFOX/gif-to-json)
-2. ❗️ Opened issue [#2](https://github.com/DAflamingFOX/gif-to-json/issues/2) in [DAflamingFOX/gif-to-json](https://github.com/DAflamingFOX/gif-to-json)
+1. ❗️ Closed issue [#2](https://github.com/DAflamingFOX/gif-to-json/issues/2) in [DAflamingFOX/gif-to-json](https://github.com/DAflamingFOX/gif-to-json)
+2. 🗣 Commented on [#2](https://github.com/DAflamingFOX/gif-to-json/issues/2) in [DAflamingFOX/gif-to-json](https://github.com/DAflamingFOX/gif-to-json)
 <!--END_SECTION:activity-->
 ![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dracula)
 [![Javacord-CommandHandler](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=Javacord-CommandHandler&theme=dracula)](https://www.github.com/DAflamingFOX/Javacord-CommandHandler)
