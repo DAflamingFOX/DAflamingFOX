@@ -27,7 +27,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1231](https://github.com/redhat-developer/vscode-java/issues/1231) in [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java)
-2. ❗️ Closed issue [#2](https://github.com/Hopeful-Developers/Javacord-CommandHandler/issues/2) in [Hopeful-Developers/Javacord-CommandHandler](https://github.com/Hopeful-Developers/Javacord-CommandHandler)
+2. 🗣 Commented on [#1231](https://github.com/redhat-developer/vscode-java/issues/1231) in [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java)
 <!--END_SECTION:activity-->
 ![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dracula)
 [![Javacord-CommandHandler](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=Javacord-CommandHandler&theme=dracula)](https://www.github.com/DAflamingFOX/Javacord-CommandHandler)
