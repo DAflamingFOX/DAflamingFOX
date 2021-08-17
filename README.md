@@ -25,10 +25,7 @@
 
 ---
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/DAflamingFOX/JGif2LED/pull/4) in [DAflamingFOX/JGif2LED](https://github.com/DAflamingFOX/JGif2LED)
-2. 🎉 Merged PR [#3](https://github.com/DAflamingFOX/JGif2LED/pull/3) in [DAflamingFOX/JGif2LED](https://github.com/DAflamingFOX/JGif2LED)
-<!--END_SECTION:activity-->
+
 ![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dracula)
 [![Javacord-CommandHandler](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=Javacord-CommandHandler&theme=dracula)](https://www.github.com/DAflamingFOX/Javacord-CommandHandler)
 [![The-Blue-Alliance-api-wrapper](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=The-Blue-Alliance-Java-api-wrapper&theme=dracula)](https://www.github.com/DAflamingFOX/The-Blue-Alliance-Java-api-wrapper)
