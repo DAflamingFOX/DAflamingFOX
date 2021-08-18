@@ -1,35 +1,49 @@
+<!-- Hello secret searcher! I would just like to say hello to all of those reading plain markdown! If your actually just here to copy something feel free to reach out to me; I'd be glad to help if needed.-->
 ### Hello There I'm Jeff - aka DAflamingFOX 👋
 #### Graduating class of 2023; Java focused developer.
 
 ---
 ### Social
-[![YouTube](youtube.svg)](https://www.youtube.com/channel/UCWr2jsW2nlGAod8zxShkceQ)
-[![](github.svg)](https://www.github.com/DAflamingFOX)
-[![Discord](discord.svg)](https://discords.com/bio/p/dff)
-[![First](first.svg)](https://www.thebluealliance.com/team/7125)
+***Now clickable!***
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://www.github.com/DAflamingFOX)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discords.com/bio/p/dff)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mr_flameyflame)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=Spotify&logoColor=white)](https://steamcommunity.com/id/DA_flaming_FOX/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/da_flaming_fox)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWr2jsW2nlGAod8zxShkceQ)
 
+---
+### Tools I Use
+<img src = "https://img.shields.io/badge/VS%20Code-007ACC?style-flat&logo=visual%20studio%20code&logoColor=white">
+<img src = "https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
+<img src = "https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white">
+<img src = "https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+<img src = "https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+<img src = "https://img.shields.io/badge/GitHub%20Desktop-9032ad?style=flat&logo=GitHub&logoColor=white">
+
+### Languages I Use
+<img src = "https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white">
+<img src = "https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white">
+<img src = "https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+<img src = "https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+<img src = "https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+
+#### Tools & Languages I Am Learning
+<!-- Tools -->
+<img src = "https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
+<img src = "https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white">
+<!-- Languages -->
+<img src = "https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+<img src = "https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=C%20Sharp&logoColor=white">
+<img src = "https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white">
+<img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src = "https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+
+---
+
+<!-- Widgets -->
 [![Spotify](https://novatorem-rust-omega.vercel.app/api/spotify)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7)
-![Wakatime stats](https://github-readme-stats-weld-nine.vercel.app/api/wakatime?username=DAflamingFOX&theme=dracula&layout=compact)
-
----
-
-### Languages and Tools
-* Software    
-    * ![](vscode.svg)![](powershell.svg)![](spotify.svg)
-* Languages
-    * ![](java.svg)![](apachemaven.svg)
-* Databases
-    * ![](sqlite.svg)
-* Git
-    * ![](git.svg)![](github.svg)![](githubactions.svg)
-
----
-
-
-![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dracula)
-[![Javacord-CommandHandler](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=Javacord-CommandHandler&theme=dracula)](https://www.github.com/DAflamingFOX/Javacord-CommandHandler)
-[![The-Blue-Alliance-api-wrapper](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=The-Blue-Alliance-Java-api-wrapper&theme=dracula)](https://www.github.com/DAflamingFOX/The-Blue-Alliance-Java-api-wrapper)
-[![The-Red-Alliance](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=The-Red-Alliance&theme=dracula)](https://www.github.com/DAflamingFOX/The-Red-Alliance)
-[![JADIB](https://github-readme-stats-weld-nine.vercel.app/api/pin/?username=DAflamingFOX&repo=JADIB&theme=dracula)](https://www.github.com/DAflamingFOX/JADIB)
-
----
+![Wakatime stats](https://github-readme-stats-weld-nine.vercel.app/api/wakatime?username=DAflamingFOX&theme=dark&layout=compact)
+![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dark&layout=compact)
