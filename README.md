@@ -1,6 +1,7 @@
 <!-- Hello secret searcher! I would just like to say hello to all of those reading plain markdown! If your actually just here to copy something feel free to reach out to me; I'd be glad to help if needed.-->
 ### Hello There I'm Jeff - aka DAflamingFOX 👋
 #### Graduating class of 2023; Java focused developer.
+
 [![wakatime](https://wakatime.com/badge/user/761572fc-9746-417a-af1d-cfb371ba2b2d.svg)](https://wakatime.com/@761572fc-9746-417a-af1d-cfb371ba2b2d)
 
 ---
