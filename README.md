@@ -2,7 +2,7 @@
 ### Hello There I'm Jeff - aka DAflamingFOX 👋
 #### Graduating class of 2023; Java focused developer.
 
-![wakatime](https://wakatime.com/badge/user/761572fc-9746-417a-af1d-cfb371ba2b2d.svg)
+[![wakatime](https://wakatime.com/badge/user/761572fc-9746-417a-af1d-cfb371ba2b2d.svg)](https://wakatime.com/@761572fc-9746-417a-af1d-cfb371ba2b2d)
 
 ---
 ### Social
