@@ -9,11 +9,10 @@
 ***Now clickable!*** <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://www.github.com/DAflamingFOX)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discords.com/bio/p/dff)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mr_flameyflame)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/DA_flaming_FOX/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/da_flaming_fox)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWr2jsW2nlGAod8zxShkceQ) <br/>
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC21jBEBMWz8KtsMQRCmq74w) <br/>
 
 ---
 ### Tools I Use
