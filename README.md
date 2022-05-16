@@ -11,7 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discords.com/bio/p/dff)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/DA_flaming_FOX/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/da_flaming_fox)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC21jBEBMWz8KtsMQRCmq74w) <br/>
 
 ---
