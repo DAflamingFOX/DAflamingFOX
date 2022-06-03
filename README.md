@@ -43,5 +43,5 @@
 ---
 
 <!-- Widgets -->
+#### What am I listening to right now?
 [![Spotify](https://novatorem-rust-omega.vercel.app/api/spotify)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7) <br/>
-![Wakatime stats](https://github-readme-stats-weld-nine.vercel.app/api/wakatime?username=DAflamingFOX&theme=dark&layout=compact) <br/>
