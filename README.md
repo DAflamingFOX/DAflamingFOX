@@ -45,4 +45,3 @@
 <!-- Widgets -->
 [![Spotify](https://novatorem-rust-omega.vercel.app/api/spotify)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7) <br/>
 ![Wakatime stats](https://github-readme-stats-weld-nine.vercel.app/api/wakatime?username=DAflamingFOX&theme=dark&layout=compact) <br/>
-![GitHub stats](https://github-readme-stats-weld-nine.vercel.app/api?username=DAflamingFOX&show_icons=true&theme=dark&layout=compact) <br/>
