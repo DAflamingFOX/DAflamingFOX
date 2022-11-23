@@ -1,23 +1,12 @@
-# Hi I'm Jeff <img src="https://raw.githubusercontent.com/DAflamingFOX/DAflamingFOX/master/assets/img/wave.gif" width="30em">
-
-[<img src="https://avatars.githubusercontent.com/u/59402059?v=4" align="right" width="100em" style="border-radius: 50%">](https://github.com/DAflamingFOX)
-
-### Also known as DAflamingFOX 🔥🦊
+# Hi I'm Jeff
+### A.K.A. DAflamingFOX 🔥🦊
 
 ## Jovial, Justifiable, and Jim-dandy 
 
-[<img height="20em" src="https://wakatime.com/badge/user/761572fc-9746-417a-af1d-cfb371ba2b2d.svg?style=flat">](https://wakatime.com/@761572fc-9746-417a-af1d-cfb371ba2b2d)
+[![WakaTime](https://wakatime.com/badge/user/761572fc-9746-417a-af1d-cfb371ba2b2d.svg?style=flat)](https://wakatime.com/@761572fc-9746-417a-af1d-cfb371ba2b2d)
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/DAflamingFOX" alt="Jeffrey's GitHub Stats" style="margin: 5px;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DAflamingFOX&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787" />
-  </a>
-  <a href="https://github.com/DAflamingFOX" alt="Jeffrey's GitHub Stats" style="margin: 5px;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAflamingFOX&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787" />
-  </a>
-</div>
-
-![Contribution Snake](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-dark-mode-only)![Contribution Snake](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DAflamingFOX&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAflamingFOX&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787)
 
 ## 💻 My Tech Stack
 
@@ -55,7 +44,7 @@
 </div>
 
 ## 📬 Connect with Me
-- ✉️ Email: jeffrey@daflamingfox.tech
+- ✉️ Email: ffejcsirrom@gmail.com
 - 🎮 Discord: DAflamingFOX#4042
 - 🚀 I'm always open to collaborate on cool and interesting projects 
 
