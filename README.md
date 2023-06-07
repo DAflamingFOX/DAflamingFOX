@@ -6,7 +6,8 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAflamingFOX&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787)
 -->
 ## About me:
-* Class of 2023/2027
+* GRHS 2023
+* Tarleton State University 2027 - Computer Science / Computer Engineering
 * Robotics & 3D printing enthusiast
 
 I am generally very busy with school and extracurricular activities, including band, tennis, and robotics. I am co-CEO and programming lead of [FRC](https://www.firstinspires.org/) team [7125](https://www.thebluealliance.com/team/7125). Most of my programming time is spent programming subsystems, autonomous routines, and library code for 7125 [Tigerbotics](https://github.com/tigerbotics7125). When not programming for robotics, I have my own personal projects which include discord bots, REST apis, and anything that seems interesting at the time.
@@ -14,23 +15,19 @@ I am generally very busy with school and extracurricular activities, including b
 ### Languages:
 *An \* represents a language I am still leaning and would not declare myself proficient in.*
 * Java
+* C++*
 * Flutter*
 * Rust*
-* Python*
 ### Tools & Technologies:
 * Programming:
   * VSCode
-  * Gradle
+  * Gradle*
   * Git*
   * MongoDB*
-* Other:
-  * Adobe suite: (Photoshop, After Effects, Premiere Pro)
-  * Prusa Slicer
 
 ## Contact Me:
 Feel free to reach out to me if you want to collab, or just have any questions.
 - [![Email](https://img.shields.io/static/v1?label=&message=ffejcsirrom@gmail.com&color=black&logo=gmail&logoColor=white)](mailto:ffejcsirrom@gmail.com)
-- [![Discord](https://img.shields.io/discord/1058778828400496660?color=black&label=%20&logo=discord&logoColor=white)](https://discord.gg/jNVguWTTrw)
 
 ### What am I listening to right now?
 [![Spotify](https://novatorem-rust-omega.vercel.app/api/spotify)](https://open.spotify.com/user/ss63tc29p0i4ksq8pvtqu32p7)
