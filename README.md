@@ -4,16 +4,14 @@
 
 ## About me
 * Student @ Tarleton State University
-  * Major - Computer Science (Computer Engineering)
-  * Minor - Electrical Engineering
-* <a href="https://github.com/tigerbotics7125"><img align=center height=75 src="https://github.com/tigerbotics7125.png"/></a> Alumni & Mentor of [FRC](https://www.firstinspires.org/robotics/frc) team 7125 Tigerbotics
+  * Major - Electrical Engineering 
+  * Minor - Computer Science 
+* Alumni & Mentor of [FRC](https://www.firstinspires.org/robotics/frc) team 7125 Tigerbotics
   * My work with Tigerbotics can be seen [here](https://github.com/tigerbotics7125)
-* <a href="https://aurorabotics.com/"><img align=center height=75 src="https://github.com/aurorabotics.png"/></a>Founder and owner of AuroraBotics, a to-be open-standards robotics company
-  *  My work with AuroraBotics can be seen [here](https://github.com/aurorabotics) or you can check out the website [here](https://aurorabotics.com/)
-
-### My abilities:
-* Java & Gradle
-* C / C++
-* VSCode
-* STM32 - Embedded C
-* KiCAD - Custom PCBs
+* Partnered with [SWYFT Robotics](https:swyftrobotics.com) for distributing and producing my electronic designs
+  * [Ranger](https://swyftrobotics.com/products/swyft-ranger-distance-sensor) LIDAR distance sensor
+  * [CANnect](https://swyftrobotics.com/products/swyft-cannect-wiring-system) wiring system
+  * [CANender](https://swyftrobotics.com/products/swyft-canender) termination plugs
+  * More forthcoming!
+* Documentation writing for SWYFT Robotics
+  * My work for SWYFT Robotics Documentation can be found [here](https://docs.swyftrobotics.com/) (not all material is mine)
